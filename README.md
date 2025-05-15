@@ -1,4 +1,3 @@
-# TrabajoMP24-25
 # INTRODUCCIÓN A GITHUB
 
 ## Instalación de GitHub
