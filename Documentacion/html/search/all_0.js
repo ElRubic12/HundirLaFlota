@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['acorazado_0',['Acorazado',['../struct_partidas.html#aed65ef49137a151b6c0a6b00446e10db',1,'Partidas']]],
+  ['actualizartablerooponente_1',['actualizarTableroOponente',['../juego_8h.html#a53a74a132660763911bfb0af8dd97f23',1,'actualizarTableroOponente(int oponente, char casilla, int cont_disparos, int flota):&#160;juego.c'],['../juego_8c.html#a53a74a132660763911bfb0af8dd97f23',1,'actualizarTableroOponente(int oponente, char casilla, int cont_disparos, int flota):&#160;juego.c']]],
+  ['actualizartablerosihundido_2',['actualizarTableroSiHundido',['../juego_8h.html#a571d3eac457a45db958b9812d8e12fda',1,'actualizarTableroSiHundido(int oponente):&#160;juego.c'],['../juego_8c.html#a571d3eac457a45db958b9812d8e12fda',1,'actualizarTableroSiHundido(int oponente):&#160;juego.c']]],
+  ['almacenarjuego_3',['almacenarJuego',['../interfaces_8h.html#af9f8d86514d761ded261ff2412e22c47',1,'almacenarJuego():&#160;load.c'],['../load_8h.html#af9f8d86514d761ded261ff2412e22c47',1,'almacenarJuego():&#160;load.c'],['../load_8c.html#af9f8d86514d761ded261ff2412e22c47',1,'almacenarJuego():&#160;load.c']]],
+  ['almacenarposicionesbarcos_4',['AlmacenarPosicionesBarcos',['../juego_8h.html#a63979836ca3ceb410fde9c6f9ea542eb',1,'AlmacenarPosicionesBarcos():&#160;juego.c'],['../juego_8c.html#a63979836ca3ceb410fde9c6f9ea542eb',1,'AlmacenarPosicionesBarcos():&#160;juego.c']]],
+  ['anadirbarcoflota_5',['anadirBarcoFlota',['../juego_8h.html#a0ccd5a86885746f3d101de51c95a2921',1,'anadirBarcoFlota(int jugador, int x, int y, char orientacion, char sentido, char sentido_diagonal, int tam_barco, int contador_numero_barcos):&#160;juego.c'],['../juego_8c.html#a0ccd5a86885746f3d101de51c95a2921',1,'anadirBarcoFlota(int jugador, int x, int y, char orientacion, char sentido, char sentido_diagonal, int tam_barco, int contador_numero_barcos):&#160;juego.c']]]
+];

@@ -1,0 +1,16 @@
+var searchData=
+[
+  ['id_5fbarco_0',['Id_barco',['../struct_barcos.html#a9fd9d9f47e63b2c2d54320616e558b1f',1,'Barcos']]],
+  ['id_5fjugador_1',['Id_jugador',['../struct_jugadores.html#a58e44937de2cd2197bc20da80b5d270b',1,'Jugadores']]],
+  ['indicador_2',['Indicador',['../struct_jugadores.html#a7c72953849d3f0b0f80945331d8ecf1c',1,'Jugadores']]],
+  ['inicializartiposbarcos_3',['inicializarTiposBarcos',['../interfaces_8h.html#a0781e78a3dda93e6be7cf79aba9574ad',1,'inicializarTiposBarcos():&#160;load.c'],['../juego_8h.html#a0781e78a3dda93e6be7cf79aba9574ad',1,'inicializarTiposBarcos():&#160;load.c'],['../load_8h.html#a0781e78a3dda93e6be7cf79aba9574ad',1,'inicializarTiposBarcos():&#160;load.c'],['../load_8c.html#a0781e78a3dda93e6be7cf79aba9574ad',1,'inicializarTiposBarcos():&#160;load.c']]],
+  ['inicializarvalores_4',['inicializarValores',['../load_8h.html#af9e4c83b4c87b22c952aa052a34ce0e4',1,'inicializarValores():&#160;load.c'],['../load_8c.html#af9e4c83b4c87b22c952aa052a34ce0e4',1,'inicializarValores():&#160;load.c']]],
+  ['inicializarvaloresacero_5',['inicializarValoresaCero',['../load_8h.html#a72c562999e2adbc9e457fe5b45fed75a',1,'inicializarValoresaCero():&#160;load.c'],['../load_8c.html#a72c562999e2adbc9e457fe5b45fed75a',1,'inicializarValoresaCero():&#160;load.c']]],
+  ['interfaces_2ec_6',['interfaces.c',['../interfaces_8c.html',1,'']]],
+  ['interfaces_2eh_7',['interfaces.h',['../interfaces_8h.html',1,'']]],
+  ['introducir_5fjugadores_8',['introducir_jugadores',['../configuracion_8h.html#a34d65ad7afd32019f0b6c54aa648fcd3',1,'introducir_jugadores():&#160;configuracion.c'],['../configuracion_8c.html#a34d65ad7afd32019f0b6c54aa648fcd3',1,'introducir_jugadores():&#160;configuracion.c']]],
+  ['introducir_5fquien_5fcomienza_9',['introducir_quien_comienza',['../configuracion_8h.html#abe1fa92c4bdcd17e3189d62d48e40070',1,'introducir_quien_comienza():&#160;configuracion.c'],['../interfaces_8h.html#abe1fa92c4bdcd17e3189d62d48e40070',1,'introducir_quien_comienza():&#160;configuracion.c'],['../configuracion_8c.html#abe1fa92c4bdcd17e3189d62d48e40070',1,'introducir_quien_comienza():&#160;configuracion.c']]],
+  ['introducir_5ftamano_5ftablero_10',['introducir_tamano_tablero',['../configuracion_8h.html#a397537e8c24b07af1bf9054ea41aeca2',1,'introducir_tamano_tablero():&#160;configuracion.c'],['../interfaces_8h.html#a397537e8c24b07af1bf9054ea41aeca2',1,'introducir_tamano_tablero():&#160;configuracion.c'],['../configuracion_8c.html#a397537e8c24b07af1bf9054ea41aeca2',1,'introducir_tamano_tablero():&#160;configuracion.c']]],
+  ['introducir_5ftipos_5fbarcos_11',['introducir_tipos_barcos',['../configuracion_8h.html#a272fb892c98b1bc4db54d53b05d9e561',1,'introducir_tipos_barcos():&#160;configuracion.c'],['../interfaces_8h.html#a272fb892c98b1bc4db54d53b05d9e561',1,'introducir_tipos_barcos():&#160;configuracion.c'],['../configuracion_8c.html#a272fb892c98b1bc4db54d53b05d9e561',1,'introducir_tipos_barcos():&#160;configuracion.c']]],
+  ['introducirbarcos_12',['introducirBarcos',['../configuracion_8h.html#a263d5e3a43d5b559e4da3f260ec8428d',1,'introducirBarcos():&#160;configuracion.c'],['../interfaces_8h.html#a263d5e3a43d5b559e4da3f260ec8428d',1,'introducirBarcos():&#160;configuracion.c'],['../configuracion_8c.html#a263d5e3a43d5b559e4da3f260ec8428d',1,'introducirBarcos():&#160;configuracion.c']]]
+];
